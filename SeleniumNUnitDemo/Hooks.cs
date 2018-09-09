@@ -14,7 +14,7 @@ namespace SeleniumNUnitDemo
         Firefox
     }
 
-    class Hooks : Base
+    public class Hooks : Base
     {
         private BrowserType _browserType;
 
